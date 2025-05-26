@@ -1,0 +1,10 @@
+<library path="raven_firmware">
+    <class name="raven_firmware/RavenInterface"
+      type="raven_firmware::RavenInterface"
+      base_class_type="hardware_interface::SystemInterface"
+    >
+      <description>
+        Raven Hardware Interface
+      </description>
+    </class>
+  </library>

@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/amith/raven_ws/install/raven_mapping/include/**",
+        "/home/amith/raven_ws/install/raven_localization/include/**",
+        "/home/amith/raven_ws/install/raven_firmware/include/**",
+        "/home/amith/raven_ws/install/raven_controller/include/**",
+        "/opt/ros/humble/include/**",
+        "/home/amith/raven_ws/src/raven_controller/include/**",
+        "/home/amith/raven_ws/src/raven_firmware/include/**",
+        "/home/amith/raven_ws/src/raven_localization/include/**",
+        "/home/amith/raven_ws/src/raven_mapping/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
